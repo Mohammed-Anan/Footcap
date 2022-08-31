@@ -193,7 +193,7 @@ header .container .list {
 /* end header */
 /* start landing  */
 .landing {
-    background-image: url(/img/main/hero-banner.png);
+    background-image: url(img/main/hero-banner.png);
     background-size: cover;
     padding: 100px;
     margin-bottom: 30px;
